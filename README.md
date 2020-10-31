@@ -1,5 +1,5 @@
 # pass_gen
-Generation
+Generation /n
 30-10-2020
 Program generates password with specified length
 
